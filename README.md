@@ -8,7 +8,7 @@ My edge is technical fluency. I don't just recommend improvements, I build them.
 
 If it touches web, marketing, or growth, I've likely built it, optimized it, or scaled it.
 
-Portfolio: [jodonovan.com](https://jodonovan.com)
+Portfolio: <a href="https://jodonovan.com" target="_blank" rel="noopener">jodonovan.com</a>
 
 ## Skills
 
@@ -60,13 +60,13 @@ Also: Technical SEO (+AEO/GEO/LLMO), E-E-A-T optimization, lead scoring & lifecy
 
 ## Featured Projects
 
-**[Zilliant](https://zilliant.com)** — B2B SaaS company where I work as Digital Marketing Manager & Web Developer. Built the marketing website and a custom CMS on the TALL stack.
+**<a href="https://zilliant.com" target="_blank" rel="noopener">Zilliant</a>** — B2B SaaS company where I work as Digital Marketing Manager & Web Developer. Built the marketing website and a custom CMS on the TALL stack.
 
-**[UTManager](https://utmanager.com)** — A SaaS app I own and operate for UTM link and campaign management.
+**<a href="https://utmanager.com" target="_blank" rel="noopener">UTManager</a>** — A SaaS app I own and operate for UTM link and campaign management.
 
-**[Set Binder](https://setbinder.com)** — A collection management tool for Magic: The Gathering players, used by 1,000+ people.
+**<a href="https://setbinder.com" target="_blank" rel="noopener">Set Binder</a>** — A collection management tool for Magic: The Gathering players, used by 1,000+ people.
 
-**[Looking For Marketing](https://lookingformarketing.com)** — A spam- and ad-free resource site (with a companion Discord) I built for marketers.
+**<a href="https://lookingformarketing.com" target="_blank" rel="noopener">Looking For Marketing</a>** — A spam- and ad-free resource site (with a companion Discord) I built for marketers.
 
 ## Community
 
