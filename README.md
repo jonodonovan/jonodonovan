@@ -2,11 +2,11 @@
 
 ### Digital Marketing Leader & Full-Stack Web Developer
 
-For almost two decades, I've led digital strategy across B2B SaaS, enterprise retail, global agency environments, and banking — owning everything from technical SEO and website architecture to marketing automation, attribution modeling, paid media, and CRO.
+For almost two decades, I've led digital strategy across B2B SaaS, enterprise retail, and global agency environments; owning everything from technical SEO and website architecture to marketing automation, attribution modeling, paid media, and CRO.
 
 My edge is technical fluency. I don't just recommend improvements, I build them. From performance optimization and SEO architecture to marketing automation workflows and reporting infrastructure, I connect systems, data, and user experience to measurable revenue outcomes.
 
-If it touches web, marketing, or growth — I've likely built it, optimized it, or scaled it.
+If it touches web, marketing, or growth, I've likely built it, optimized it, or scaled it.
 
 Portfolio: [jodonovan.com](https://jodonovan.com)
 
