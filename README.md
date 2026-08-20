@@ -55,7 +55,3 @@ I moderate several of Reddit's largest marketing communities, reaching 4M+ membe
 | r/GoogleAdwords | 9.7K |
 | r/GoogleAnalytics360 | 1.4K |
 | r/GoogleWebmasterTools | 880 |
-
-## GitHub Stats
-
-![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonodonovan&show_icons=true&hide_border=true&theme=default)
