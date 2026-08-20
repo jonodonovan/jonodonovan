@@ -56,7 +56,7 @@ Portfolio: [jodonovan.com](https://jodonovan.com)
 ![HubSpot CMS](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-Also: AEO/GEO/LLMO, E-E-A-T optimization, lead scoring & lifecycle/nurture automation, marketing attribution, A/B testing & CRO strategy, KPI development
+Also: Technical SEO (+AEO/GEO/LLMO), E-E-A-T optimization, lead scoring & lifecycle/nurture automation, marketing attribution, A/B testing & CRO strategy, KPI/reporting development
 
 ## Featured Projects
 
